@@ -1,4 +1,3 @@
-# appschedular
 # App Scheduler
 
 ## Requirement
