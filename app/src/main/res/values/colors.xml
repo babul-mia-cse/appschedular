@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary theme color -->
+    <color name="colorPrimary">#0F4490</color>
+    <!-- Secondary / Accent color -->
+    <color name="colorSecondary">#4D7EDB</color>
+    <color name="colorAccent">#165DB6</color>
+
+    <!-- Text colors -->
+    <color name="textPrimary">#212121</color>
+    <color name="textOnPrimary">#FFFFFF</color>
+    <color name="textSecondary">#757575</color>
+</resources>

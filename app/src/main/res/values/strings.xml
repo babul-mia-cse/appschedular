@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Schedule</string>
+    <string name="text_save">Save</string>
+
+
+    <string name="text_reminder">Reminder</string>
+    <string name="no_data_found">No data found</string>
+    <string name="select_app">Select App</string>
+    <string name="set_time_hh_mm">Set Time (HH:mm)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_and_time">Date and time</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>

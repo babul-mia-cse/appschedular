@@ -1,0 +1,25 @@
+<resources>
+    <style name="Theme.MyApp" parent="Theme.AppCompat.DayNight">
+        <!-- Disable default action bar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">#0F4490</item>
+        <item name="colorSecondary">#165DB6</item>
+        <item name="colorAccent">#0F4490</item>
+
+        <!-- Text Colors -->
+        <item name="android:textColorPrimary">#212121</item>
+        <item name="android:textColorSecondary">#757575</item>
+        <item name="android:textColorPrimaryInverse">#FFFFFF</item>
+        <item name="android:textColorSecondaryInverse">#FFFFFF</item>
+
+        <!-- Control / Widget Colors -->
+        <item name="colorControlActivated">#165DB6</item>
+        <item name="colorControlHighlight">#4D7EDB</item>
+        <item name="colorButtonNormal">#165DB6</item>
+        <item name="android:buttonBarButtonStyle">@style/MeldCXButtonStyle</item>
+
+    </style>
+</resources>
